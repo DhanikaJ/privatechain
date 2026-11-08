@@ -1,0 +1,16 @@
+# Everything generated at runtime: chain data, keystores, node keys, secrets
+data/
+keystore/
+geth/
+*.ipc
+nodekey
+jwtsecret
+password*.txt
+*.log
+history
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
